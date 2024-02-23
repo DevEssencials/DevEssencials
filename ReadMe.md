@@ -1,5 +1,5 @@
 # 💫 About Me:
-Estudante Full-Stack<br>Faço curso técnico de análise e desenvolvimento de sistemas na Fatec Carapicuíba<br>
+Estudante Full-Stack<br>Faço curso superior tecnólogo em análise e desenvolvimento de sistemas na Fatec Carapicuíba<br>
 
 
 # 💻 Tech Stack:
